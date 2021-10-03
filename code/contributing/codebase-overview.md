@@ -13,4 +13,3 @@ All our repositories are stored on [Github](https://github.com/anpanswap?tab=rep
 * [Uikit](https://github.com/anpanswap/anpan-uikit): Contains a set of packages used to build the anpan ecosystem.
 * [Frontend](https://github.com/anpanswap/anpan-frontend): The main frontend. It contains all the features that are not listed below.
 * [Exchange](https://github.com/anpanswap/anpan-swap-interface): The trading platform for Anpan.
-* [Info](https://github.com/anpanswap/anpan-info): On chain data for Anpan.

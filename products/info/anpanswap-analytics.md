@@ -2,7 +2,7 @@
 
 ![](img-analytics-2021-09-11-01-47-53.png)
 
-View AnpanSwap's native analytics site here: [https://anpanswap.info](https://anpanswap.info)
+View AnpanSwap's analytics site here: [https://info.anpanswap.finance](https://info.anpanswap.finance)
 
 ## 1. Charts: Liquidity by day, Volume by day, Volume (24hrs)
 

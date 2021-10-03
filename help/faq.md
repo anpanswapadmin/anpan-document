@@ -4,13 +4,10 @@
 
 This FAQ page answers some of the more commonly asked questions from the AnpanSwap community.
 
-## Is AnpanSwap safe? Has AnpanSwap been Audited?
+## Is AnpanSwap safe?
 
 See for yourself:
 
-* Check out these AnpanSwap security audits: 
-  * [Certik’s security audit of AnpanSwap](https://www.certik.org/projects/anpanswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
-  * [Slowmist's security audit of AnpanSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
   * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0xe8d2c4ca811e0445B83326aBe85B7c40C66759eD#code) [2](https://bscscan.com/address/0x305E193C7B6955564D0D3D35d918FF1f27F3A610#code) [3](https://bscscan.com/address/0xEb4D933D56E5deF7B24F543766dD398f1DaFEEd5#code) [4](https://bscscan.com/address/0x14fA5493E17Aad701E3d59d90fB6D2814a39A176#code) [5](https://bscscan.com/address/0x45E8Eb81aE3445A88066058b566e58D535CA9D94#code) 
@@ -92,7 +89,7 @@ The treasury funds are used to cover the expenses involved in running AnpanSwap.
 
 You can check the analytics of AnpanSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
-Analytics: [https://anpanswap.info/](https://anpanswap.info/)
+Analytics: [https://info.anpanswap.finance](https://info.anpanswap.finance)
 
 ## Is AnpanSwap protected from flashloan attacks?
 

@@ -53,6 +53,6 @@ Check our [Troubleshooting page](https://docs.anpanswap.finance/#/help/troublesh
 
 ## Something else
 
-You can shoot us an email at anpanswap@gmail.com if the above parts don't cover your questions.
+You can shoot us an email at admin@anpanswap.finance if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](https://docs.anpanswap.finance/#/contact-us/customer-support), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram community](https://docs.anpanswap.finance/#/contact-us/telegram).

@@ -5,23 +5,7 @@
 Here you'll find official email and a list of AnpanSwap's official Social media channels and communities.
 
 ## Email:   
-anpanswap@gmail.com
-
-## 🐦 Twitter
-
-[https://twitter.com/anpanswap](https://twitter.com/anpanswap)
-
-## 📰 Blog \(Medium\)
-
-[https://anpanswap.medium.com/](https://anpanswap.medium.com/)
-
-## 👽 Reddit
-
-[https://reddit.com/r/anpanswap](https://reddit.com/r/anpanswap)
-
-## 🤳 Instagram
-
-[https://www.instagram.com/anpanswap\_official/](https://www.instagram.com/anpanswap\_official/)
+admin@anpanswap.finance
 
 ## 💬 Telegram
 
@@ -30,6 +14,13 @@ anpanswap@gmail.com
 * 📣 Announcement Channel \([http://t.me/AnpanSwapAnn](http://t.me/AnpanSwapAnn)\) 
 * English \([http://t.me/anpanswap](http://t.me/anpanswap)\) 
 
+## 🐦 Twitter
+
+[https://twitter.com/anpanswap](https://twitter.com/anpanswap)
+
+## 🤳 Instagram
+
+[https://www.instagram.com/anpanswap_official/](https://www.instagram.com/anpanswap_official/)
 
 **Danger**  
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
